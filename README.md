@@ -1,2 +1,2 @@
-Nayoung Kim
-Kookmin Univ. SW
+# Nayoung Kim
+# Kookmin Univ. SW
